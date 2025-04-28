@@ -11,3 +11,5 @@ Added an About Me section to README.md
 - 📚 I enjoy reading science fiction novels.
 - ☕ I am a huge coffee enthusiast.
 Added a Fun Facts section to README.md
+## Check This Out!
+![My Image](https://via.placeholder.com/150)
