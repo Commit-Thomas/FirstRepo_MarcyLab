@@ -15,3 +15,4 @@ Added a Fun Facts section to README.md
 ![image](https://github.com/user-attachments/assets/42d3b3b4-7df9-4b0a-bc9f-92a1b037acef)
 ## Check This Out!
 Visit my favorite website: [GitHub](https://github.com/)
+Added an image/link section to README.md
