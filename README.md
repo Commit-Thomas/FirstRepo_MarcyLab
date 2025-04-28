@@ -13,8 +13,7 @@ Added an About Me section to README.md
 - 🏓 Im learning ping pong.
 Added a Fun Facts section to README.md
 ## Check This Out!
-![image](https://github.com/user-attachments/assets/92debc4b-b941-413f-b490-32e1ae3c5455)
-
+![image](https://github.com/user-attachments/assets/91f49621-f89d-4909-87e1-23c38a1153f4)
 ## Check This Out!
 Visit my favorite website(im also learning chess): https://www.chess.com
 Added an image/link section to README.md
