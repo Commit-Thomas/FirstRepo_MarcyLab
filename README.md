@@ -10,3 +10,4 @@ Added an About Me section to README.md
 - 🎮 I love playing video games (especially RPGs).
 - 📚 I enjoy reading science fiction novels.
 - ☕ I am a huge coffee enthusiast.
+Added a Fun Facts section to README.md
