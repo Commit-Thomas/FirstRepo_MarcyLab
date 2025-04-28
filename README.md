@@ -12,4 +12,4 @@ Added an About Me section to README.md
 - ☕ I am a huge coffee enthusiast.
 Added a Fun Facts section to README.md
 ## Check This Out!
-![My Image](https://via.placeholder.com/150)
+![image](https://github.com/user-attachments/assets/42d3b3b4-7df9-4b0a-bc9f-92a1b037acef)
