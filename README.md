@@ -6,3 +6,7 @@ Git and GitHub as part of Marcy Lab. I am excited to
 develop my coding skills and collaborate on awesome
 projects in the future!
 Added an About Me section to README.md
+## Fun Facts About Me
+- 🎮 I love playing video games (especially RPGs).
+- 📚 I enjoy reading science fiction novels.
+- ☕ I am a huge coffee enthusiast.
